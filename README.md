@@ -9,7 +9,9 @@ For reasons unknown to you, the FBI has taken notice of these reports; weirder s
 The coordinator has given you only two adamant indications:
 1) Don't get caught
 2) Burn down your target.
-You are now on site with 3 other agents of the FBI SWAT division, who are here to assist only should the worst come to pass. You are doubtful, but deep down apprehensive. Let's hope Appalachia doesn't live up to its reputation.
+You are now on site with 3 other agents of the FBI SWAT division, who are here to assist only should the worst come to pass.
+
+You are doubtful, but deep down apprehensive. Let's hope Appalachia doesn't live up to its reputation.
 
 ## Gameplay Overview
 - A small, linear mission. Although not overly difficult, you are expected to have a good hold of EPFC's mechanics. 'Unconventional' solutions are sometimes required.
